@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "beforeStart": "npm test"
+  },
+  "git": {
+    "requireUpstream": false
+  },
+  "github": {
+    "release": true
+  }
+}
